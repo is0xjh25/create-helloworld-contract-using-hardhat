@@ -10,5 +10,5 @@ Before you begin, ensure that your computer is set up with the following:
 - **NVM or Node v18.18.2**
 - Choose one of the package managers: **pnpm**, **yarn**, or **npm**
 
-## More information
+## More Information
 Please visit [Berachain Docs](https://docs.berachain.com/developers/guides/create-helloworld-contract-using-hardhat).
